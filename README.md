@@ -10,6 +10,9 @@
 <<<<<<< HEAD
 
 3. 3rd line added from local. 
+<<<<<<< HEAD
 =======
 3. add 3rd line.
 >>>>>>> 4322897dee57adf800ebdfd0a7e13c0c2c00a765
+=======
+>>>>>>> d42d2cd (new change 3rd)
